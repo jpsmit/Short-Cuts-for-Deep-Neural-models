@@ -1,4 +1,4 @@
-# Short-Cuts-for-Deep-Neural-models (2023)
+# Short Cuts for Deep Neural models (2023)
 *Smit, J.P. - TU Delft*
 
 
