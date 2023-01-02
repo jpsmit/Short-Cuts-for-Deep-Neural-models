@@ -36,6 +36,6 @@ Take DESQ as a subsequence mining tool.
 2. Repeat with 'Supported' queries of the dataset.
 3. XOR: Combine the two subsets of sequences and remove the duplicates.
 4. Evaluate the mined sequences of both sides.
-4.1. Confirm that the model output agrees with the training data
-4.2. Propose 'Unseen claims': claims containing the subsequence, that the model has not yet observed
-4.3. Perform 'Adverserial Attacks': swap the subsequence for a term that retains the meaning
+5. Confirm that the model output agrees with the training data
+6. Propose 'Unseen claims': claims containing the subsequence, that the model has not yet observed
+7. Perform 'Adverserial Attacks': swap the subsequence for a term that retains the meaning
