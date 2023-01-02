@@ -57,4 +57,4 @@ Take DESQ as a subsequence mining tool.
 | [is only a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_only_a.ipynb) | REFUTED |  |  |
 | [was unable to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_unable_to.ipynb) | REFUTED |  |  |
 | [There is a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/There_is_a.ipynb) | SUPPORTED |  |  |
-| [was in a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_in_a.ipynb) | REFUTED |  |  |
+| [was in a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_in_a.ipynb) | SUPPORTED |  |  |
