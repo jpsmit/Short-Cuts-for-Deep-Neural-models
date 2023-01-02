@@ -1,4 +1,6 @@
 # Short-Cuts-for-Deep-Neural-models (2023)
+*Smit, J.P. - TU Delft*
+
 
 This repository contains code to accompany a Thesis Submitted to EEMCS Faculty Delft University of Technology, 
 in Partial Fulfilment of the Requirements for the Bachelor of Computer Science and Engineering.
@@ -20,8 +22,20 @@ This repository is a copy of the ExPred repository, with added Jupyter Notebooks
 It contains subsequences mined from the FeVer dataset, a big database (90.000 items) of fact queries containing a label 'Supported' or 'Refuted'.
 The ExPred model draws evidence from Wikipedia pages to give queries those labels.
 
-For this experiment 3 steps:
+Interestingly, the ExPred model is not hundred percent fallible, it makes mistakes sometimes.
+Yet the mistakes can be structural, meaning the model is biased.
+We design an algorithm to point out the biggest biases of the ExPred model.
 
-1. 
-2.
-3.
+The algorithm was designed as follows:
+
+Take the training dataset of FeVer as a dataset.
+Take ExPred as a model.
+Take DESQ as a subsequence mining tool.
+
+1. Mine sequences from the 'Refuted' queries of the dataset.
+2. Repeat with 'Supported' queries of the dataset.
+3. XOR: Combine the two subsets of sequences and remove the duplicates.
+4. Evaluate the mined sequences of both sides.
+4.1. Confirm that the model output agrees with the training data
+4.2. Propose 'Unseen claims': claims containing the subsequence, that the model has not yet observed
+4.3. Perform 'Adverserial Attacks': swap the subsequence for a term that retains the meaning
