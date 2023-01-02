@@ -53,7 +53,7 @@ Take DESQ as a subsequence mining tool.
 | [only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/only_ever_been.ipynb) | REFUTED |  |  |
 | [is not a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_a.ipynb) | REFUTED |  |  |
 | [is incapable of](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of.ipynb) | REFUTED |  |  |
-| [has yet to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has yet to.ipynb) | REFUTED |  |  |
+| [has yet to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_yet_to.ipynb) | REFUTED |  |  |
 | [is only a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_only_a.ipynb) | REFUTED |  |  |
 | [was unable to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_unable_to.ipynb) | REFUTED |  |  |
 | [There is a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/There_is_a.ipynb) | SUPPORTED |  |  |
