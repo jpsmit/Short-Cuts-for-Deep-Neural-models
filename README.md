@@ -46,8 +46,8 @@ Take DESQ as a subsequence mining tool.
 
 | Query         | Most occurring label     | Percentage confirmed occurring label | Percentage succesful Adverserial Attacks |
 |--------------|-----------|------------| ------------|
-| [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED   | 100% | |
-| [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 78% |
+| [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED   | 100% | 78% |
+| [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 70% |
 | [does not have](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/does_not_have.ipynb) | REFUTED |  |  |
 | [was not a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_not_a.ipynb) | REFUTED |  |  |
 | [only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/only_ever_been.ipynb) | REFUTED |  |  |
