@@ -26,6 +26,7 @@ Interestingly, the ExPred model is not hundred percent fallible, it makes mistak
 Yet the mistakes can be structural, meaning the model is biased.
 We design an algorithm to point out the biggest biases of the ExPred model.
 
+#### Algorithm
 The algorithm was designed as follows:
 
 Take the training dataset of FeVer as a dataset.
@@ -39,3 +40,11 @@ Take DESQ as a subsequence mining tool.
 5. Confirm that the model output agrees with the training data
 6. Propose 'Unseen claims': claims containing the subsequence, that the model has not yet observed
 7. Perform 'Adverserial Attacks': swap the subsequence for a term that retains the meaning
+
+
+### Results
+
+| Query         | Most occurring label     | Percentage confirmed occurring label | Percentage succesful Adverserial Attacks |
+|--------------|-----------|------------| ------------|
+| [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED   | 100% | |
+| [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 78% |
