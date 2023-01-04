@@ -44,10 +44,10 @@ Each notebook contains the code needed to perform the correlation check and adve
 - **Correlation** : percentage of cases in which ExPred predicts the same class for the query containing the subsequence.
 - **Successfullness** : amount of adverserial attacks in which flipping the meaning also meant flipping the label.
 
-| Subsequence        | Prediction Class     | Correlation | Succesfullness |
-|--------------|-----------|------------| ------------|
+| Subsequence        | Prediction Class     | Precision | Correlation | Succesfullness |
+|--------------|-----------|------------| ------------| ------------|
 | [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED   | 100% | 78% |
-| [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 62% |
+| [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 99% | 62% |
 | [does not have](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/does_not_have.ipynb) | REFUTED | 100% | 83% |
 | [is exclusively](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_exclusively.ipynb) | REFUTED | 100% |  40% |
 | [is not a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_a.ipynb) | REFUTED |  |  |
