@@ -42,7 +42,7 @@ Each notebook contains the code needed to perform the correlation check and adve
 - **Subsequence** : subsequence that was mined from FeVer.
 - **Prediction Class** : corresponds to the most prevalent prediction label of the mined subsequence.
 - **Correlation** : percentage of cases in which ExPred predicts the same class for the query containing the subsequence.
-- **Precision** : precision of the ExPred model on the queries.
+- **Precision** : precision of the ExPred model on the queries in which it is actually right.
 - **Successfullness** : amount of adverserial attacks in which flipping the meaning also meant flipping the label.
 
 | Subsequence        | Prediction Class     | Correlation | Precision | Succesfullness |
