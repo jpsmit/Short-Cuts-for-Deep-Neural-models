@@ -37,12 +37,15 @@ Take DESQ as a subsequence mining tool.
 2. Repeat with 'Supported' queries of the dataset.
 3. XOR: Combine the two subsets of sequences and remove the duplicates.
 4. Evaluate the mined sequences of both sides.
-5. Confirm that the model output agrees with the training data
+5. Compute the model's precision: confirm that the model output agrees with the training data
 6. Propose 'Unseen claims': claims containing the subsequence, that the model has not yet observed
 7. Perform 'Adverserial Attacks': swap the subsequence for a term that retains the meaning
 
 
 ### Results
+
+Click on a sequence name to get to the corresponding notebook.
+Each notebook contains the code needed to perform the precision check and adverserial attacks.
 
 | Query         | Most occurring label     | Correlation mined sequence-class | Percentage succesful Adverserial Attacks |
 |--------------|-----------|------------| ------------|
