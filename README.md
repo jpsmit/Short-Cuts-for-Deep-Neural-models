@@ -8,13 +8,6 @@ in Partial Fulfilment of the Requirements for the Bachelor of Computer Science a
 Notable credits should go to [JoshuaGhost](https://github.com/JoshuaGhost) for creating and maintaining [ExPred: the Deep Neural model](https://github.com/JoshuaGhost/expred) which we have studied for this thesis.
 The model is an implementation of the paper [Explain and Predict, and then Predict Again](https://dl.acm.org/doi/abs/10.1145/3437963.3441758).
 
-### Reproducing the Research
-
-Here are the steps for those who are interested in reproducing the research.
-
-1. Clone this repository
-2. Install the requirements for the ``ExPred model`` by ``pip install -r requirements``
-3. Run the provided Jupyter Notebooks
 
 ### Structure
 
@@ -65,3 +58,12 @@ Each notebook contains the code needed to perform the correlation check and adve
 | [was incapable of](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_incapable_of.ipynb) | SUPPORTED | 100% |  89% |
 | [making it the](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_a.ipynb) | SUPPORTED | 75% | 100% |
 
+
+
+### Reproducing the Research
+
+Here are the steps for those who are interested in reproducing the research.
+
+1. Clone this repository
+2. Install the requirements for the ``ExPred model`` by ``pip install -r requirements``
+3. Run the provided Jupyter Notebooks
