@@ -47,7 +47,7 @@ Take DESQ as a subsequence mining tool.
 Click on a sequence name to get to the corresponding notebook.
 Each notebook contains the code needed to perform the correlation check and adverserial attacks.
 
-| Query Sequence        | Pred. Class     | Correlation | Succesfullness |
+| Subsequence        | Pred. Class     | Correlation | Succesfullness |
 |--------------|-----------|------------| ------------|
 | [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED   | 100% | 78% |
 | [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 62% |
