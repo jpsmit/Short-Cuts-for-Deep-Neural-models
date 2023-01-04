@@ -46,17 +46,17 @@ Each notebook contains the code needed to perform the correlation check and adve
 
 | Subsequence        | Prediction Class     | Correlation | Precision | Succesfullness |
 |--------------|-----------|------------| ------------| ------------|
-| [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED   | 94% | 100% | 78% |
+| [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED  | 100% | 94% | 78% |
 | [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 99% | 62% |
-| [does not have](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/does_not_have.ipynb) | REFUTED | 100% | 83% |
-| [is exclusively](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_exclusively.ipynb) | REFUTED | 100% |  40% |
-| [is not a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_a.ipynb) | REFUTED |  |  |
-| [has yet to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_yet_to.ipynb) | REFUTED |  |  |
-| [is only a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_only_a.ipynb) | REFUTED | 100% |  |
-| [was unable to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_unable_to.ipynb) | REFUTED | 100% | 76% |
-| [There is a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/There_is_a.ipynb) | SUPPORTED |  |  |
-| [was incapable of](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_incapable_of.ipynb) | SUPPORTED | 100% |  89% |
-| [making it the](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_a.ipynb) | SUPPORTED | 75% | 100% |
+| [does not have](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/does_not_have.ipynb) | REFUTED | 100% | | 83% |
+| [is exclusively](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_exclusively.ipynb) | REFUTED | 100% | | 40% |
+| [is not a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_a.ipynb) | REFUTED |  |  | |
+| [has yet to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_yet_to.ipynb) | REFUTED |  |  | |
+| [is only a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_only_a.ipynb) | REFUTED | 100% | |  |
+| [was unable to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_unable_to.ipynb) | REFUTED | 100% | 76% | |
+| [There is a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/There_is_a.ipynb) | SUPPORTED |  |  | |
+| [was incapable of](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_incapable_of.ipynb) | SUPPORTED | 100% |  | 89% |
+| [making it the](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_a.ipynb) | SUPPORTED | 75% | | 100% |
 
 
 
