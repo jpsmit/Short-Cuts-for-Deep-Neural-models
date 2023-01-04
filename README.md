@@ -46,6 +46,10 @@ Take DESQ as a subsequence mining tool.
 
 Click on a sequence name to get to the corresponding notebook.
 Each notebook contains the code needed to perform the correlation check and adverserial attacks.
+- **Subsequence** : subsequence that was mined from FeVer.
+- **Prediction Class** : corresponds to the most prevalent prediction label of the mined subsequence.
+- **Correlation** : percentage of cases in which ExPred predicts the same class for the query containing the subsequence.
+- **Successfullness** : amount of adverserial attacks in which flipping the meaning also meant flipping the label.
 
 | Subsequence        | Prediction Class     | Correlation | Succesfullness |
 |--------------|-----------|------------| ------------|
