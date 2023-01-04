@@ -50,12 +50,10 @@ Take DESQ as a subsequence mining tool.
 | [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 62% |
 | [does not have](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/does_not_have.ipynb) | REFUTED | 100% | 83% |
 | [is exclusively](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_exclusively.ipynb) | REFUTED | 100% |  40% |
-| [was not a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_not_a.ipynb) | REFUTED |  |  |
-| [only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/only_ever_been.ipynb) | REFUTED |  |  |
-| [is not a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_a.ipynb) | REFUTED |  |  |
-| [is incapable of](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of.ipynb) | REFUTED |  |  |
+| [is not a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_a.ipynb) | REFUTED |  |  |
+| [is not an](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_not_an.ipynb) | REFUTED |  |  |
 | [has yet to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_yet_to.ipynb) | REFUTED |  |  |
-| [is only a(n)](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_only_a.ipynb) | REFUTED |  |  |
+| [is only a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_only_a.ipynb) | REFUTED |  |  |
 | [was unable to](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_unable_to.ipynb) | REFUTED |  |  |
 | [There is a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/There_is_a.ipynb) | SUPPORTED |  |  |
-| [was in a](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_in_a.ipynb) | SUPPORTED |  |  |
+| [was incapable of](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/was_incapable_of.ipynb) | SUPPORTED |  |  |
