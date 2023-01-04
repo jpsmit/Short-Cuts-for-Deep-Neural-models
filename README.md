@@ -44,7 +44,7 @@ Take DESQ as a subsequence mining tool.
 
 ### Results
 
-| Query         | Most occurring label     | Percentage confirmed occurring label | Percentage succesful Adverserial Attacks |
+| Query         | Most occurring label     | Correlation mined sequence-class | Percentage succesful Adverserial Attacks |
 |--------------|-----------|------------| ------------|
 | [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED   | 100% | 78% |
 | [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 62% |
