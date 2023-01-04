@@ -37,7 +37,7 @@ Take DESQ as a subsequence mining tool.
 2. Repeat with 'Supported' queries of the dataset.
 3. XOR: Combine the two subsets of sequences and remove the duplicates.
 4. Evaluate the mined sequences of both sides.
-5. Compute the model's precision: confirm that the model output agrees with the training data
+5. Compute the model's correlation: confirm that the model output agrees with the training data
 6. Propose 'Unseen claims': claims containing the subsequence, that the model has not yet observed
 7. Perform 'Adverserial Attacks': swap the subsequence for a term that retains the meaning
 
@@ -45,9 +45,9 @@ Take DESQ as a subsequence mining tool.
 ### Results
 
 Click on a sequence name to get to the corresponding notebook.
-Each notebook contains the code needed to perform the precision check and adverserial attacks.
+Each notebook contains the code needed to perform the correlation check and adverserial attacks.
 
-| Query         | Most occurring label     | Correlation mined sequence-class | Percentage succesful Adverserial Attacks |
+| Query         | Most occurring label     | Correlation sequence-class | Adverserial Attack succesfullness |
 |--------------|-----------|------------| ------------|
 | [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED   | 100% | 78% |
 | [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 62% |
