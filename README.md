@@ -45,7 +45,7 @@ Each notebook contains the code needed to perform the correlation check and adve
 - **Precision** : precision of the ExPred model on the queries in which it is actually right.
 - **Successfullness** : amount of adverserial attacks in which flipping the meaning also meant flipping the label.
 
-| Subsequence        | Prediction Class     | Correlation | Precision | Adversarial Coverage |
+| Subsequence        | Prediction Class     | Correlation | Precision | Adversarial Attack Successrate |
 |--------------|-----------|------------| ------------| ------------|
 | [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED  | 100% | 94% | 78% |
 | [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 99% | 62% |
