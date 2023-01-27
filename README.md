@@ -41,11 +41,11 @@ Click on a sequence name to get to the corresponding notebook.
 Each notebook contains the code needed to perform the correlation check and adverserial attacks.
 - **Subsequence** : subsequence that was mined from FeVer.
 - **Prediction Class** : corresponds to the most prevalent prediction label of the mined subsequence.
-- **Correlation** : percentage of cases in which ExPred predicts the same class for the query containing the subsequence.
+- **Confidence** : percentage of cases in which ExPred predicts the same class for the query containing the subsequence.
 - **Precision** : precision of the ExPred model on the queries in which it is actually right.
-- **Successfullness** : amount of adverserial attacks in which flipping the meaning also meant flipping the label.
+- **Success-rate** : amount of adverserial attacks in which flipping the meaning also meant flipping the label.
 
-| Subsequence        | Prediction Class     | Correlation | Precision | Adversarial Attack Successrate |
+| Subsequence        | Prediction Class     | Confidence | Precision | Adversarial Attack Successrate |
 |--------------|-----------|------------| ------------| ------------|
 | [is incapable of being](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/is_incapable_of_being.ipynb) | REFUTED  | 100% | 94% | 78% |
 | [has only ever been](https://github.com/jpsmit/Short-Cuts-for-Deep-Neural-models/blob/master/has_only_ever_been.ipynb) | REFUTED | 100% | 99% | 62% |
